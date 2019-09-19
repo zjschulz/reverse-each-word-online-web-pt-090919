@@ -1,5 +1,5 @@
 def reverse_each_word(sentence)
  
-sentence.split(" ").map do |x|
+    ence.split(" ").map do |x|
     array >> 
 end
